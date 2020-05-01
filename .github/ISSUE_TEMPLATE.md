@@ -1,8 +1,10 @@
-﻿<!--PLEASE READ THIS CAREFULLY: You *MUST* read and complete the checklist below, by placing an x into each [ ] (so that it shows '[x]', NOT '[ x]' or '[x ]'), BEFORE clicking on 'Submit new issue'. Failure to perform these steps, WHICH ARE ONLY THERE TO HELP *YOU*, will result in the issue being dismissed without warning.-->
+﻿
+<!--PLEASE READ THIS CAREFULLY: You *MUST* read and complete the checklist below, by placing an x into each [ ] (so that it shows '[x]', NOT '[ x]' or '[x ]'), BEFORE clicking on 'Submit new issue'. Failure to perform these steps, WHICH ARE ONLY THERE TO HELP *YOU*, will result in the issue being dismissed without warning.-->
 
 Checklist
 ---------
-- [ ] I looked at https://github.com/pbatard/rufus/wiki/FAQ to see if my question has already been answered.
+- [ ] I looked at https://github.com/pbat
+ard/rufus/wiki/FAQ to see if my question has already been answered.
 - [ ] I performed a search in the issue tracker for similar issues using keywords relevant to my problem, such as the error message I got from the log.
 - [ ] I clicked the 'Log' button or pressed <kbd>Ctrl</kbd>-<kbd>L</kbd> in Rufus, and copy/pasted the log into the line that says `<FULL LOG>` below.
 - [ ] The log I am copying is the FULL log, starting with the line `Rufus version: x.y.z` - I have NOT removed any part of it.
